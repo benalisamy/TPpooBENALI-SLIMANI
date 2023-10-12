@@ -1,0 +1,20 @@
+Welcome to the Python Object-Oriented Programming (POO) TP1 project !  
+This repository contains the code and resources for the assignments related to the POO module. 
+The primary objective of this project is to help us explore the fundamentals of Python, with a specific focus on Object-Oriented Programming.
+Work done by : BENALI SAMY /// SLIMANI IKRAM
+
+
+
+
+Description of the function plot_correlation_map(df)  : 
+
+
+The function plot_correlation_map(df) creates a visual representation of how different numbers in a table are related to each other.
+This function generates a colored map, where each number is like a data on the map , 
+The color of each data point indicates whether it shares a positive correlation or a negative correlation with nearby data points.
+In a correlation heatmap, each variable is represented by a row and a column, and the cells show the correlation between them. 
+The color of each cell represents the strength and direction of the correlation, with darker colors indicating stronger correlations.
+
+
+
+
